@@ -107,49 +107,49 @@ body {
             height: 450px;
         }
 
-        .card-img-container.card-77 {
+        .card-img-container.card-109 {
             /* Replace with your actual default image URL */
-            background-image: url('../images/picture\ 1.jpg');
+            background-image: url('../images/perfume1.webp');
         }
         /* Hover image for Card 1 - REPLACE THIS URL */
-        .product-card:hover .card-img-container.card-77 {
-            background-image: url('../images/picture\ 1\ Hover.jpg'); 
+        .product-card:hover .card-img-container.card-109 {
+            background-image: url('../images/perfume1hover.webp'); 
         }
 
-        .card-img-container.card-78 {
+        .card-img-container.card-110 {
             /* Replace with your actual default image URL */
-            background-image: url('../images/picture\ 2.jpg');
+            background-image: url('../images/perfume2.webp');
         }
         /* Hover image for Card 2 - REPLACE THIS URL */
-        .product-card:hover .card-img-container.card-78 {
-            background-image: url('../images/picture\ 2\ hover.jpg');
+        .product-card:hover .card-img-container.card-110 {
+            background-image: url('../images/perfume2hover.webp');
         }
         
-        .card-img-container.card-79 {
+        .card-img-container.card-111 {
             /* Replace with your actual default image URL */
-            background-image: url('../images/picture\ 3.jpg');
+            background-image: url('../images/perfum3.webp');
         }
         /* Hover image for Card 3 - EPLACE THIS URL */
-        .product-card:hover .card-img-container.card-79 {
-            background-image: url('../images/picture\ 3\ Hover.jpg'); 
+        .product-card:hover .card-img-container.card-111 {
+            background-image: url('../images/perfume3hover.webp'); 
         }
         
-        .card-img-container.card-80 {
+        .card-img-container.card-112 {
             /* Replace with your actual default image URL */
-            background-image: url('../images/picture\ 4\ .jpg');
+            background-image: url('../images/perfume4.webp');
         }
         /* Hover image for Card 4 - REPLACE THIS URL */
-        .product-card:hover .card-img-container.card-80 {
-            background-image: url('../images/picture\ 4\ Hover.jpg'); 
+        .product-card:hover .card-img-container.card-112 {
+            background-image: url('../images/perfume4hover.webp'); 
         }
         
-        .card-img-container.card-81 {
+        .card-img-container.card-113 {
             /* Replace with your actual default image URL */
-            background-image: url('../images/Picture\ 5.jpg');
+            background-image: url('../images/perfume5.webp');
         }
         /* Hover image for Card 4 - REPLACE THIS URL */
-        .product-card:hover .card-img-container.card-img-container.card-81 {
-            background-image: url('../images/picture\ 5\ Hover.jpg'); 
+        .product-card:hover .card-img-container.card-img-container.card-113 {
+            background-image: url('../images/perfume5hover.webp'); 
         }
 
         .card-title {
@@ -171,96 +171,96 @@ body {
 /* -------------------------------------- */
 /* 🛑 CARD 5: DEFAULT AND HOVER IMAGES */
 /* -------------------------------------- */
-.card-img-container.card-82 {
+.card-img-container.card-114 {
     /* 🔴 ORIGINAL IMAGE 5: Replace with your NEW default image path */
-    background-image: url('../images/picture\ 6.jpg');
+    background-image: url('../images/perfume6.webp');
 }
-.product-card:hover .card-img-container.card-82 {
+.product-card:hover .card-img-container.card-114 {
     /* 🟢 HOVER IMAGE 5: Replace with your NEW hover image path */
-    background-image: url('../images/picture\ 6\ Hover.jpg'); 
+    background-image: url('../images/perfume6hoverwebp.webp'); 
 }
 
 /* -------------------------------------- */
 /* 🛑 CARD 6: DEFAULT AND HOVER IMAGES */
 /* -------------------------------------- */
-.card-img-container.card-83 {
+.card-img-container.card-115 {
     /* 🔴 ORIGINAL IMAGE 6: Replace with your NEW default image path */
-    background-image: url('../images/picture\ 7.jpg');
+    background-image: url('../images/perfume7.webp');
 }
-.product-card:hover .card-img-container.card-84 {
+.product-card:hover .card-img-container.card-115 {
     /* 🟢 HOVER IMAGE 6: Replace with your NEW hover image path */
-    background-image: url('../images/picture\ 7\ Hover.jpg'); 
+    background-image: url('../images/perfume7hover.webp'); 
 }
 
 /* -------------------------------------- */
 /* 🛑 CARD 7: DEFAULT AND HOVER IMAGES */
 /* -------------------------------------- */
-.card-img-container.card-85 {
+.card-img-container.card-116 {
     /* 🔴 ORIGINAL IMAGE 7: Replace with your NEW default image path */
-    background-image: url('../images/picture\ 8.jpg');
+    background-image: url('../images/perfume8.webp');
 }
-.product-card:hover .card-img-container.card-85 {
+.product-card:hover .card-img-container.card-116 {
     /* 🟢 HOVER IMAGE 7: Replace with your NEW hover image path */
-    background-image: url('../images/picture\ 8\ Hover.jpg'); 
+    background-image: url('../images/perfume8hover.webp'); 
 }
 
 /* -------------------------------------- */
 /* 🛑 CARD 8: DEFAULT AND HOVER IMAGES */
 /* -------------------------------------- */
-.card-img-container.card-86 {
+.card-img-container.card-117 {
     /* 🔴 ORIGINAL IMAGE 8: Replace with your NEW default image path */
-    background-image: url('../images/picture\ 9.jpg');
+    background-image: url('../images/perfume9.webp');
 }
-.product-card:hover .card-img-container.card-86 {
+.product-card:hover .card-img-container.card-117 {
     /* 🟢 HOVER IMAGE 8: Replace with your NEW hover image path */
-    background-image: url('../images/picture\ 9\ Hover\ .jpg'); 
+    background-image: url('../images/perfume9hover.webp'); 
 }
 
 /* ... existing CSS code for card-title and card-text-price ... */
 
- .card-img-container.card-87 {
+ .card-img-container.card-118 {
             /* Replace with your actual default image URL */
-            background-image: url('../images/picture\ 10.jpg');
+            background-image: url('../images/perfume10.webp');
         }
         /* Hover image for Card 1 - REPLACE THIS URL */
-        .product-card:hover .card-img-container.card-87 {
-            background-image: url('../images/picture\ 10\ Hover.jpg'); 
+        .product-card:hover .card-img-container.card-118 {
+            background-image: url('../images/perfume10hover.webp'); 
         }
 
-        .card-img-container.card-88 {
+        .card-img-container.card-119 {
             /* Replace with your actual default image URL */
-            background-image: url('../images/picture\ 11.jpg');
+            background-image: url('../images/perfume11.webp');
         }
         /* Hover image for Card 2 - REPLACE THIS URL */
-        .product-card:hover .card-img-container.card-88 {
-            background-image: url('../images/picture\ 11\ hover.jpg');
+        .product-card:hover .card-img-container.card-119 {
+            background-image: url('../images/perfume11hover.webp');
         }
         
-        .card-img-container.card-89 {
+        .card-img-container.card-120 {
             /* Replace with your actual default image URL */
-            background-image: url('../images/picture\ 12.jpg');
+            background-image: url('../images/perfume12.webp');
         }
         /* Hover image for Card 3 - REPLACE THIS URL */
-        .product-card:hover .card-img-container.card-89 {
-            background-image: url('../images/picture\ 12\ Hover.jpg'); 
+        .product-card:hover .card-img-container.card-120 {
+            background-image: url('../images/perfume12hover.webp'); 
         }
         
-        .card-img-container.card-90 {
+        .card-img-container.card-121 {
             /* Replace with your actual default image URL */
-            background-image: url('../images/picture\ 13.jpg');
+            background-image: url('../images/perfume13.webp');
         }
         /* Hover image for Card 4 - REPLACE THIS URL */
-        .product-card:hover .card-img-container.card-90 {
-            background-image: url('../images/picture\ 13\ hover.jpg'); 
+        .product-card:hover .card-img-container.card-121 {
+            background-image: url('../images/perfume13hover.webp'); 
         }
         
-        .card-img-container.card-91 {
+        .card-img-container.card-122 {
             /* Replace with your actual default image URL */
-            background-image: url('../images/picture\ 14.jpg');
+            background-image: url('../images/perfume14.webp');
         }
         /* Hover image for Card 4 - REPLACE THIS URL */
-        .product-card:hover .card-img-container.card-91 {
-            background-image: url('../images/picture\ 14\ \ Hover.jpg'); 
+        .product-card:hover .card-img-container.card-122 {
+            background-image: url('../images/perfume14hover.webp'); 
         }
 
         .card-title {
@@ -282,25 +282,25 @@ body {
 /* -------------------------------------- */
 /* 🛑 CARD 5: DEFAULT AND HOVER IMAGES */
 /* -------------------------------------- */
-.card-img-container.card-92 {
+.card-img-container.card-123 {
     /* 🔴 ORIGINAL IMAGE 5: Replace with your NEW default image path */
-    background-image: url('../images/picture\ 15.jpg');
+    background-image: url('../images/perfume15.webp');
 }
-.product-card:hover .card-img-container.card-92 {
+.product-card:hover .card-img-container.card-123 {
     /* 🟢 HOVER IMAGE 5: Replace with your NEW hover image path */
-    background-image: url('../images/picture\ 15\ Hover.jpg'); 
+    background-image: url('../images/perfume15hover.webp'); 
 }
 
 /* -------------------------------------- */
 /* 🛑 CARD 6: DEFAULT AND HOVER IMAGES */
 /* -------------------------------------- */
-.card-img-container.card-93 {
+.card-img-container.card-124 {
     /* 🔴 ORIGINAL IMAGE 6: Replace with your NEW default image path */
-    background-image: url('../images/picture\ 16.jpg');
+    background-image: url('../images/perfume16.webp');
 }
-.product-card:hover .card-img-container.card-93 {
+.product-card:hover .card-img-container.card-124 {
     /* 🟢 HOVER IMAGE 6: Replace with your NEW hover image path */
-    background-image: url('../images/picture\ 16\ Hover.jpg'); 
+    background-image: url('../images/perfume16hover.webp'); 
 }
 
 
@@ -515,6 +515,7 @@ body {
     transform: none;
   }
 }
+
 
 footer {
   font-size: 0.9rem;

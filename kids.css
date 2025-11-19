@@ -515,3 +515,37 @@ body {
     transform: none;
   }
 }
+
+footer {
+  font-size: 0.9rem;
+}
+
+.footer {
+  font-family: 'Poppins', sans-serif;
+  /* margin-top: 100px; */
+  background-color: rgba(191, 187, 187, 0.867);
+}
+
+.footer h6 {
+  font-size: 15px;
+  letter-spacing: 0.5px;
+}
+
+.footer p,
+.footer a {
+  font-size: 14px;
+  color: #000;
+}
+
+.footer a:hover {
+  color: #777;
+}
+
+.footer hr {
+  border-color: #ccc;
+}
+.footer .fa-brands {
+  font-size: 20px;
+  margin-right: 15px;
+  color: #000;
+}

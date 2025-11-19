@@ -486,7 +486,9 @@ body {
     margin-top: 20px;
 }
 
-
+.but{
+  text-decoration: none;
+}
 
 footer {
   font-size: 0.9rem;
@@ -909,7 +911,7 @@ footer {
 
         .card-img-container.card-28 {
             /* Replace with your actual default image URL */
-            background-image: url('../ images/child4.webp');
+            background-image: url('../images/child4.webp');
         }
         /* Hover image for Card 1 - REPLACE THIS URL */
         .product-card:hover .card-img-container.card-28 {
